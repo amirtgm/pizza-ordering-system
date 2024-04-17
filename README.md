@@ -74,8 +74,9 @@ To set up your local development environment, follow these steps:
 
 Given more time, potential improvements include:
 
-1. Enhanced setup with environment variables and security measures.
-2. Added testing for controllers and services.
-3. Fallback mechanisms for failed jobs due to database errors.
-4. A notification system for state transitions.
-5. Advanced error handling with middleware.
+1. defienetly would follow git commit structure but didn't have much time.
+2. Enhanced setup with environment variables and security measures.
+3. Added testing for controllers and services.
+4. Fallback mechanisms for failed jobs due to database errors.
+5. A notification system for state transitions.
+6. Advanced error handling with middleware.
